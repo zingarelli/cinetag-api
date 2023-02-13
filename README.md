@@ -1,2 +1,3 @@
 # cinetag-api
-A single json file to be used in "My JSON Server" website for a fake REST server
+
+This is a single json file that will be used in ["My JSON Server" website](https://my-json-server.typicode.com) in order to have a fake REST server.
